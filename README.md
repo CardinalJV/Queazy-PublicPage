@@ -12,7 +12,7 @@
 # Queazy
 
 <p align="center">
-  <img src="appIcon-Queazy.png" alt="Logo" width="100">
+  <img src="appIcon-Queazy.png" alt="Logo" width="137">
 </p>
 
 Queazy is an AI-powered learning companion that transforms images and documents into interactive study material. Using Apple’s on-device intelligence, Queazy extracts text from photos, documents, and camera captures, then automatically generates flashcards and quizzes to help users learn more effectively.
